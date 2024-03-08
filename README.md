@@ -1,0 +1,1 @@
+# Bootcamp-Azure-AI-Fundamentals-Processamento-de-Fala-e-Mineracao-Conhecimento
